@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MotorReturnScroll:jar">
+    <output-path>$USER_HOME$/Desktop/Minecraft Server/1.20.1 서버 만들기/plugins</output-path>
+    <root id="archive" name="MotorReturnScroll.jar">
+      <element id="module-output" name="MotorReturnScroll" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,7 @@
+name: MotorReturnScroll
+version: '${project.version}'
+main: me.motor.motorreturnscroll.MotorReturnScroll
+api-version: '1.20'
+commands:
+  귀환서:
+
